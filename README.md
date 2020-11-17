@@ -132,4 +132,4 @@ try {
 五、实验结果截图
 
  
-![Image text](https://github.com/vcri6124/java-4/blob/main/%E5%AE%9E%E9%AA%8C%E6%88%AA%E5%9B%BE.png)
+![Image text](https://github.com/vcri6124/java-4/blob/main/%E5%AE%9E%E9%AA%8C%E6%88%AA%E5%9B%BE.jpg)
